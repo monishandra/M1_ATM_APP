@@ -13,4 +13,5 @@ The ATM application is nowadays essential for all bank organizations.
 ## How :
 This application is a solution for customer to do transactions without going to bank through ATM. The whole transaction will continue untill we exit from the funtion.
 
-
+# SWOT Analysis
+![SWOT analysis](https://embed.creately.com/zmtldTVYRr1?token=1FHxEx4xN2vzkMCj&)
