@@ -1,6 +1,23 @@
 # Discription
 This,project is a console application using the C programming language.This project compiled in VSCode with the GCC compiler. In this application , you can do atm tasks like checkbalance,withdraw cash, deposit cash,..etc.
 
+# Requirements
+## Highlevel requirements
+|  ID  |             Discription           |    status   |
+|------|-----------------------------------|-------------|
+|HR_01 | Operating system(Windows10/Linux) | Implemented |
+|HR_02 | C Language                        | Implemented |
+
+## Lowlevel requirements
+|  ID  |             Discription           |    status   |
+|------|-----------------------------------|-------------|
+|LR_01 | Funtions to Mainmenu              | Implemented |
+|LR_02 | Funtions to Checkbalance          | Implemented |
+|LR_03 | Funtions to cashDeposit           | Implemented |
+|LR_04 | Funtions to cashWithdraw          | Implemented |
+|LR_05 | Funtions to menuExit              | Implemented |
+|LR_06 | Funtions to errorMessages         | Implemented |
+
 # 4W's and 1'H
 ## Who:
 The project can be used almost by all the particular organization people.At the end,user satisfaction is the goal of the project.
