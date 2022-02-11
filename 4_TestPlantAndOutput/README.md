@@ -9,3 +9,5 @@
 |  T_03  | To checkbalance    |   1     |    15000     |   15000       |     Pass      |
 |  T_04  | To money withdraw  |  5000   |    10000     |   10000       |     Pass      |
 |  T_05  | To money deposit   |  1000   |    11000     |   11000       |     Pass      |
+
+**Test plan** Doucmentation is created and output is captured for every possible level Requirements in test case and **verified succesfully.**
