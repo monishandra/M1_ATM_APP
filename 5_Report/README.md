@@ -33,3 +33,11 @@ This application is a solution for customer to do transactions without going to 
 # SWOT Analysis
 ![SWOT](https://user-images.githubusercontent.com/98832647/153263916-504abb3a-06cc-424e-bae8-a3f5c846d925.jpg)
 
+# Behavioral diagrams
+### Activity diagram
+
+![Activity_diagram](https://user-images.githubusercontent.com/98832647/153596713-4aab17c6-5ea2-42d9-90ed-6fc72eb743fb.png)
+
+### Sequence diagram
+![Sequence_diagram](https://user-images.githubusercontent.com/98832647/153597386-f6cc76a8-49e9-4c20-a1e1-6b6d2b42c41a.png)
+
