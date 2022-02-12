@@ -1,6 +1,5 @@
 # M1_ATM_APP
 # About Project
-# Discription
 This,project is a console application using the C programming language.This project compiled in VSCode with the GCC compiler. In this application , you can do atm tasks like checkbalance,withdraw cash, deposit cash,..etc. We can make transactions until we exit from the code. 
 # Features
 - Main menu
